@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Soham 👋
 
-<!--
-**sohamsakhare76-ai/sohamsakhare76-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student from Solapur, India.
 
-Here are some ideas to get you started:
+Currently learning:
+- Java
+- DSA
+- Web Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- Software Development
+- Open Source
+- Building Projects
+
+## Tech Stack
+Java • C • Python • HTML • CSS • JavaScript
+
+Currently working on improving problem solving and development skills.
